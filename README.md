@@ -2,7 +2,7 @@
 
 This is a short guide to create a Bash Powerline based on existing online resources.
 
-![demo](/Users/fil/Projects/bash_powerline/demo.gif)
+![demo](demo.gif)
 
 Download the following files into your home folder:
 
