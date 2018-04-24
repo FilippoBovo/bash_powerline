@@ -1,4 +1,4 @@
-# Bash Powerline
+# Simple Bash Powerline
 
 This is a short guide to create a Bash Powerline based on existing online resources.
 
