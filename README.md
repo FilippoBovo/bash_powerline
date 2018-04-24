@@ -6,7 +6,7 @@ This is a short guide to create a Bash Powerline based on existing online resour
 
 This Bash Powerline:
 
-- displays the Git status in the command prompt,including information on the active branch and the presence of un-staged files, un-committed files and un-pushed commits;
+- displays the Git status in the command prompt, including information on the active branch and the presence of un-staged files, un-committed files and un-pushed commits;
 - displays the active Python Virtual Environment;
 - automatically activate a Python Virtual Environment when cd'ing into a path that contains a folder with the same name of the virtual environment.
 
@@ -62,7 +62,7 @@ If you are using another theme, you can look for a colour configuraton that matc
 
 ## Uninstall
 
-To uninstall this Bash Powerline, simply remove the script added to the `~/.bashrc` or `~/.bash_profile` files during the installation, and remove the downloaded files.
+To uninstall this Bash Powerline, simply remove the script snippet added to the `~/.bashrc` or `~/.bash_profile` files during the installation, and remove the downloaded files.
 
 ```shell
 rm $HOME/.git-prompt.sh $HOME/.auto-virtualenv.sh $HOME/.virtualenv-prompt.sh
